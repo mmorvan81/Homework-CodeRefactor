@@ -33,3 +33,5 @@ but I think my lack of knowledge was a hinderance.
 
 If you mark up what went wrong I would like to correct this.
 
+![screenshot of horizeon website](https://user-images.githubusercontent.com/78609468/109574529-20f16d00-7abe-11eb-8ccd-3eaf400de808.png)
+Screenshot of completed work. Was not certain why the aside text was now in black - should change to white and center headers. 
